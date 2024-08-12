@@ -1,6 +1,7 @@
 ---
 date: 2017-01-07
 title: Chocolate Cupcakes
+hidden: true
 categories:
   - Cupcakes
   - Cakes
