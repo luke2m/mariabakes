@@ -14,9 +14,8 @@ collections:
         - { label: "Title", name: "title", widget: "string" }
         - { label: "Featured Image", name: "featured_image", widget: "image" }
         - { label: "Body", name: "body", widget: "markdown" }
-        - recipe:
-          - { label: "Servings", name: "servings", widget: "string" }
-          - { label: "Prep Time", name: "prep", widget: "string" }
-          - { label: "Cook Time", name: "cook", widget: "string" }
-          - { label: "Ingredients", name: "ingredients_markdown", widget: "markdown" }
-          - { label: "Directions", name: "directions_markdown", widget: "markdown" }
+        - { label: "Servings", name: "servings", widget: "string" }
+        - { label: "Prep Time", name: "prep", widget: "string" }
+        - { label: "Cook Time", name: "cook", widget: "string" }
+        - { label: "Ingredients", name: "ingredients_markdown", widget: "markdown" }
+        - { label: "Directions", name: "directions_markdown", widget: "markdown" }
