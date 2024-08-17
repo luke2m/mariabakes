@@ -1,7 +1,7 @@
 ---
 date: 2024-08-17T15:15:00.000Z
 title: The Cake of Your Dreams aka Portillo's Chocolate Cake
-featured_image: /images/channels4_profile.jpg
+featured_image: /images/choc-cake-2.jpg
 servings: 10 - 12 slices
 prep: 2 hours
 cook: 37 minutes
