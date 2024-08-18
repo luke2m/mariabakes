@@ -85,19 +85,19 @@ directions_markdown: >-
 ---
 This chocolate cake is unbelievably moist, tender, and soft. The cake layers have a soft rich crumb and intense chocolate flavor. All pulled together by a smooth, velvety, rich, chocolate fudge frosting. Inspired by Portillo's chocolate cake. 
 
+![](/images/choc-cake-1.jpg)
+
 Portillo's is a restaurant chain that is found in various locations, such as Illinois, Indiana, Arizona, and California. The Restaurant started when Dick Portillos invested in a small trailer in 1963 to open the first Portillo’s hot dog stand in Villa Park, IL. Not so long later the chocolate cake was introduced to the menu and soon became everyone's favorite. Sold in large slices, the cake is a must to try if you haven't before. However, I don’t live near a Portillo’s, so this recipe satisfies my cravings and is JUST like the original. 
 
 Rumor has it that Portillo’s uses mayonnaise in their cake. Yes. You heard it right, MAYO in chocolate cake. It sounds really strange but when you look at the ingredients. Scientifically it isn’t so weird!
 
 Mayonnaise is an emulsion of eggs, oil, and either lemon juice or vinegar. All of those ingredients are pretty common to find in a cake recipe. Learn more about what mayonnaise does for this cake here put yt short Maria!!!
 
-To have your cake turn out the most moist and fudgy as possible, here are my tips.
+**To have your cake turn out the most moist and fudgy as possible, here are my tips.**
 
-Do not overbake your cakes: you know that they are done when you insert a toothpick and it comes out clean, or with a few moist crumbs. 
-
-Chill, chill, chill! It can be hard to have the patience to wait for the cake to cool down before frosting, but trust me it will make decorating a whole lot easier. You don't want to end up with one pile of runny frosting and broken cake layers. Chilling the cake after spreading on the middle layer of frosting is highly recommended! 
-
-Mixing: When the dry ingredients are added to the batter, be cautious of how fast you’re mixing. Only just enough to bring the batter together. Otherwise, an overworked batter can lead to a tough cake.
+1. **Do not overbake your cakes:** you know that they are done when you insert a toothpick and it comes out clean, or with a few moist crumbs. 
+2. **Chill, chill, chill!** It can be hard to have the patience to wait for the cake to cool down before frosting, but trust me it will make decorating a whole lot easier. You don't want to end up with one pile of runny frosting and broken cake layers. Chilling the cake after spreading on the middle layer of frosting is highly recommended! 
+3. **Mixing:** When the dry ingredients are added to the batter, be cautious of how fast you’re mixing. Only just enough to bring the batter together. Otherwise, an overworked batter can lead to a tough cake.
 
 
 
