@@ -75,7 +75,7 @@ directions_markdown: >-
   Notes:
 
 
-  The original recipe found here uses 3 8” pans. The infamous Portillo's chocolate cake uses 2 9” cake pans and I wanted to replicate the cake as best as I could. However, using 2 9” pans leaves some remaining batter to make around 4 cupcakes. If you decide to use 3 8” pans, bake for 30 - 35 minutes instead.  
+  The original recipe found here uses 3 8” pans. The famous Portillo's chocolate cake uses 2 9” cake pans and I wanted to replicate the cake as best as I could. However, using 2 9” pans leaves some remaining batter to make around 4 cupcakes. If you decide to use 3 8” pans, bake for 30 - 35 minutes instead.  
 
 
   If you end up leaving your frosting in the fridge for too long and it's very hard, then either let it come to room temperature, or if you're in a rush, heat the frosting in the microwave for 10 second bursts at a time, mixing in between each burst until you reach your desired consistency. On the other hand, if your frosting is still too soft, just leave it in the fridge for longer to firm up. 
@@ -99,12 +99,10 @@ Mayonnaise is an emulsion of eggs, oil, and either lemon juice or vinegar. All o
 
 **To have your cake turn out the most moist and fudgy as possible, here are my tips.**
 
-1. **Do not overbake your cakes:** you know that they are done when you insert a toothpick and it comes out clean, or with a few moist crumbs. 
+1. **Do not overbake your cakes:** You know that they are done when you insert a toothpick and it comes out clean, or with a few moist crumbs. 
 2. **Chill, chill, chill!** It can be hard to have the patience to wait for the cake to cool down before frosting, but trust me it will make decorating a whole lot easier. You don't want to end up with one pile of runny frosting and broken cake layers. Chilling the cake after spreading on the middle layer of frosting is highly recommended! 
 3. **Mixing:** When the dry ingredients are added to the batter, be cautious of how fast you’re mixing. Only just enough to bring the batter together. Otherwise, an overworked batter can lead to a tough cake.
 
 ![](/images/choc-cake-3.jpg)
-
-
 
 Happy Baking! As always remember… whenever you’re in the kitchen, you’re not only a baker, but a chemist too!
