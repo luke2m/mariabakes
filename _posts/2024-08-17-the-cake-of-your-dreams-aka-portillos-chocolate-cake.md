@@ -72,7 +72,7 @@ directions_markdown: >-
   17. Now, enjoy! 
 
 
-  Notes:
+  ## Notes:
 
 
   The original recipe found here uses 3 8” pans. The famous Portillo's chocolate cake uses 2 9” cake pans and I wanted to replicate the cake as best as I could. However, using 2 9” pans leaves some remaining batter to make around 4 cupcakes. If you decide to use 3 8” pans, bake for 30 - 35 minutes instead.  
