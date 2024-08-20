@@ -3,8 +3,9 @@ date: 2024-08-17T15:15:00.000Z
 title: The Cake of Your Dreams, aka Portillo's Chocolate Cake
 featured_image: /images/choc-cake-2.jpg
 servings: 10 - 12 slices
-prep: 2 hours
-cook: 37 minutes
+total: "total time: 3 hours"
+prep: "prep time: 2 hours (chill 20 minutes)"
+cook: "bake time: 37 minutes"
 ingredients_markdown: |-
   For the Cake:
 
@@ -72,7 +73,7 @@ directions_markdown: >-
   17. Now, enjoy! 
 
 
-  ## Notes:
+  ## Notes
 
 
   The original recipe found here uses 3 8” pans. The famous Portillo's chocolate cake uses 2 9” cake pans and I wanted to replicate the cake as best as I could. However, using 2 9” pans leaves some remaining batter to make around 4 cupcakes. If you decide to use 3 8” pans, bake for 30 - 35 minutes instead.  
