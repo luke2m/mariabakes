@@ -69,6 +69,8 @@ My family absolutely loves Costco. We get probably 90% of our groceries from the
 
 Where did the idea of using stale croissants even come from? Well, croissants unfortunately have a VERY short shelf life. After a day, they basically go bad; they get dry and hard. It is a problem for us now, and it has long been a problem for French bakers in France. What do you do with stale croissants? Bakers can’t sell croissants that are stale and it’s a waste, so they came up with ways to use them. One way to use them is by covering them with a syrup, filling them with frangipane, and baking them for a second time. The croissants turn out to be sweet and soft, full with almond flavor and crunchy from almond slivers baked on top. They are absolute perfection and for added bonus, they make your house smell AMAZING!! These are easy enough to whip up in the morning for breakfast, and they would work great served as a snack or even for dessert!
 
+![](/images/almond-croissant-5.jpg)
+
 Frangipane is a dreamy, creamy spreadable paste that consists of almond flour, almond extract, eggs, butter, and sugar. It is used most commonly in baked goods, such as bostock and tarts.
 
 ![](/images/almond-croissant-2.jpg)
