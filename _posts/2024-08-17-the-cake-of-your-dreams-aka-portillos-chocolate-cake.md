@@ -94,7 +94,23 @@ Portillo's is a restaurant chain that is found in various locations, such as Ill
 
 Rumor has it that Portillo’s uses mayonnaise in their cake. Yes. You heard it right, MAYO in chocolate cake. It sounds really strange, but when you look at the ingredients, scientifically it isn’t so weird!
 
-Mayonnaise is an emulsion of eggs, oil, and either lemon juice or vinegar. All of those ingredients are pretty common to find in a cake recipe. Learn more about what mayonnaise does for this cake here https://www.youtube.com/shorts/3YctSSL2tN8 
+Mayonnaise is an emulsion of eggs, oil, and either lemon juice or vinegar. All of those ingredients are pretty common to find in a cake recipe. Learn more about what mayonnaise does for this cake here 
+
+<iframe width="315" height="560"
+
+src="https://www.youtube.com/shorts/3YctSSL2tN8 "
+
+title="YouTube video player"
+
+frameborder="0"
+
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+allowfullscreen></iframe>
+
+
+
+
 
 ![](/images/choc-cake-7.jpg)
 
