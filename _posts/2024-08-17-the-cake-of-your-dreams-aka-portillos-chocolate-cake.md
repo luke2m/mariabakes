@@ -98,7 +98,7 @@ Mayonnaise is an emulsion of eggs, oil, and either lemon juice or vinegar. All o
 
 <iframe width="315" height="560"
 
-src="https://www.youtube.com/shorts/3YctSSL2tN8 "
+src="https://www.youtube.com/embed/3YctSSL2tN8 "
 
 title="YouTube video player"
 
@@ -107,10 +107,6 @@ frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
 
 allowfullscreen></iframe>
-
-
-
-
 
 ![](/images/choc-cake-7.jpg)
 
