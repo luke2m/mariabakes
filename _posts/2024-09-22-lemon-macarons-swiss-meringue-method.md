@@ -1,7 +1,7 @@
 ---
 date: 2024-09-22T16:26:00.000Z
 title: Lemon Macarons (Swiss Meringue Method)
-featured_image: /images/l-macarons-1.jpg
+featured_image: /images/l-macarons-4.jpg
 servings: 22 - 25 WHOLE COOKIES
 total: "Total Time: 2 hours and 30 minutes"
 prep: "Prep Time: 45 minutes"
@@ -108,7 +108,7 @@ Make sure you check out this video so you can have the best success! Also, here 
 2. **Add acid:** Some cream of tarter, vinegar, or lemon juice will increase stability. It also neutralizes things. (Ph of 4.6 - 4.8 is optimal)
 3. **Set out your eggs!** Room temperature eggs are MUCH easier to whip, when egg whites are cold the amino acids are very tightly bound together and it takes a lot more effort to separate them.
 
-![](/images/l-macarons-4.jpg)
+![](/images/l-macarons-1.jpg)
 
 ![](/images/l-macaroms-6.jpg)
 
