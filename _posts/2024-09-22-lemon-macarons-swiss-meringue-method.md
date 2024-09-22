@@ -93,6 +93,9 @@ directions_markdown: >-
 
 
   These Macarons will last for up to a week when stored sealed in the fridge.
+
+
+  This recipe is adapted from https://lifestyleofafoodie.com/small-batch-lemon-curd-recipe/#recipe-link, https://www.piesandtacos.com/lemon-macarons/#recipe, and https://www.piesandtacos.com/lemon-macarons/#recipe
 ---
 Yesterday marked the first day of fall! I'm so excited to start sharing more recipes using fall ingredients in season. This recipe can be the last hurrah for the summer season!!
 
