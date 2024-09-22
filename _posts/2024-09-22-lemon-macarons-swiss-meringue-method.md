@@ -105,7 +105,21 @@ These macarons remind me of lemon bars. They are filled to the brim with lemon b
 
 ![](/images/l-macarons-2.jpg)
 
-Make sure you check out this video https://www.youtube.com/shorts/UYI42MiFzGM so you can have the best success! Also, here are some additional tips:
+Make sure you check out this video so you can have the best success!
+
+<iframe width="315" height="560"
+
+src="https://www.youtube.com/embed/UYI42MiFzGM"
+
+title="YouTube video player"
+
+frameborder="0"
+
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+
+allowfullscreen></iframe>
+
+Also, here are some additional tips:
 
 1. **Remove fat:** Wipe down your bowl with an acid before making the meringue. Lemon juice or vinegar works great! The reason behind this is that fat prevents the amino acids from clinging to air bubbles which are crucial for a fluffy meringue. 
 2. **Add acid:** Some cream of tarter, vinegar, or lemon juice will increase stability. It also neutralizes things. (Ph of 4.6 - 4.8 is optimal)
