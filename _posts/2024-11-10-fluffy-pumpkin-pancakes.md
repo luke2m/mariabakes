@@ -50,6 +50,12 @@ directions_markdown: >-
   11. Serve the pancakes warm with yogurt, nuts, and the cooked apples.
 
   12. Now, enjoy!
+
+
+  # Notes:
+
+
+  This recipe is adapted from https://thefirstyearblog.com/pumpkin-pancakes/
 ---
 These Pumpkin Pancakes are the perfect way to start off a cool fall morning! They are tender, fluffy, and quick and easy. Top with a spiced apple sauce or serve with fresh fruit. You can’t go wrong! 
 
