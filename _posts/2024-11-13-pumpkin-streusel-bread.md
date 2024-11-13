@@ -7,41 +7,37 @@ total: "Total Time: 1 hour 30 minutes"
 prep: "Prep Time: 20 minutes "
 cook: "Bake Time: 1 hour 10 minutes"
 ingredients_markdown: |-
-  
+  Streusel:
 
+  * 1/2 cup all-purpose flour 
+  * 6 Tbsp light or dark brown sugar
+  * ½ tsp ground cinnamon
+  * ¼ tsp kosher salt
+  * ¼ cup unsalted butter, melted
 
-  #### Streusel:
+  Pumpkin Bread:
 
-  * ### ½ cup all-purpose flour 
-  * ### 6 Tbsp light or dark brown sugar
-  * ### ½ tsp ground cinnamon
-  * ### ¼ tsp kosher salt
-  * ### ¼ cup unsalted butter, melted
+  * 1 15 oz can pumpkin puree
+  * ¾ cup vegetable oil 
+  * 1 cup brown sugar 
+  * ½ cup granulated sugar 
+  * 2 large eggs
+  * 1 ½ tsp baking powder
+  * ¾ tsp baking soda
+  * ¾ tsp kosher salt
+  * 3 tsp cinnamon
+  * ½ tsp ground nutmeg
+  * ¼ tsp ground ginger
+  * pinch ground cloves
+  * 2 cups all-purpose flour
 
-  ### Pumpkin Bread:
+  Maple Glaze:
 
-  * ### 1 15 oz can pumpkin puree
-  * ### ¾ cup vegetable oil 
-  * ### 1 cup brown sugar 
-  * ### ½ cup granulated sugar 
-  * ### 2 large eggs
-  * ### 1 ½ tsp baking powder
-  * ### ¾ tsp baking soda
-  * ### ¾ tsp kosher salt
-  * ### 3 tsp cinnamon
-  * ### ½ tsp ground nutmeg
-  * ### ¼ tsp ground ginger
-  * ### pinch ground cloves
-  * ### 2 cups all-purpose flour
-
-  ### Maple Glaze:
-
-  * ### ½ Tbsp unsalted butter, melted
-  * ### ¼ cup confectioners sugar
-  * ### ½ tsp ground cinnamon
-  * ### 1 tablespoon maple syrup
-  * ### Splash of milk  
-  *
+  * ½ Tbsp unsalted butter, melted
+  * ¼ cup confectioners sugar
+  * ½ tsp ground cinnamon
+  * 1 tablespoon maple syrup
+  * Splash of milk
 directions_markdown: >-
   
   Streusel:
